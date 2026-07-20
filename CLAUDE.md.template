@@ -1,0 +1,24 @@
+# Claude Memory
+
+## Rules for Claude
+
+- 会话结束时主动更新本文件（新偏好、项目进度、决策）
+- 中文交流，不删已有条目除非用户要求
+- Context usage 达 70% 时自动 /compact
+
+## User Profile
+
+- Name:
+- Role:
+
+## Long-term Preferences
+
+<!-- /commit end 会自动往这里写入识别到的三类偏好 -->
+
+## Short-term Memory
+
+<!-- 当前阶段需要记住的临时信息（API token、项目结构等） -->
+
+## Session Log
+
+<!-- 每次 /commit 追加一行：[时间] DONE 描述 → 产出物路径 -->
